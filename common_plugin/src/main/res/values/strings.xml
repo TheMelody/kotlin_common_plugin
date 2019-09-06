@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="time_yesterday">yesterday</string>
+    <string name="time_just_now">just now</string>
+    <string name="time_date_with_year" tools:ignore="MissingTranslation">yyyy-M-d</string>
+    <string name="time_date_without_year" tools:ignore="MissingTranslation">M-d</string>
+</resources>
